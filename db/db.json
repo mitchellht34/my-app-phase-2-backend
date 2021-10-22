@@ -1,52 +1,39 @@
 {
-  "toys": [
+  "movies": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "Title": "Ricki and the Flash",
+      "Year": "2015",
+      "Type": "movie",
+      "imdbID": "tt3623726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NzIxNzkzM15BMl5BanBnXkFtZTgwMzAzNjIzNjE@._V1_SX300.jpg",
+      "Genre": "Comedy, Drama, Music",
+      "Released": "07 Aug 2015",
+      "Runtime": "101 min",
+      "Rated": "PG-13",
+      "Director": "Jonathan Demme",
+      "Writer": "Diablo Cody",
+      "Actors": "Meryl Streep, Kevin Kline, Mamie Gummer",
+      "Awards": "4 nominations",
+      "Plot": "A woman named Linda leaves her family to pursue her dream of being a rock star. And she hasn't achieved the notoriety she hoped for. Her ex-husband calls her to tell her that her daughter suffered a breakdown because her husband left her. She goes back to Indianapolis. But her daughter doesn't exactly welcome her with open arms. But she stays and tries. And her sons also don't welcome her warmly.",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "Title": "The Flash",
+      "Year": "2014–",
+      "Type": "series",
+      "imdbID": "tt3107288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Genre": "Action, Adventure, Drama",
+      "Released": "07 Oct 2014",
+      "Runtime": "43 min",
+      "Rated": "TV-PG",
+      "Director": "N/A",
+      "Writer": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+      "Actors": "Grant Gustin, Candice Patton, Danielle Panabaker",
+      "Awards": "Nominated for 1 Primetime Emmy. 28 wins & 90 nominations total",
+      "Plot": "Barry Allen is a Central City police forensic scientist with a reasonably happy life, despite the childhood trauma of a mysterious red and yellow lightning killing his mother and framing his father. All that changes when a massive particle accelerator accident leads to Barry being struck by lightning in his lab. Coming out of coma nine months later, Barry and his new friends at S.T.A.R labs find that he now has the ability to move at superhuman speed. Furthermore, Barry learns that he is but one of many affected by that event, most of whom are using their powers for evil. Determined to make a difference, Barry dedicates his life to fighting such threats, as The Flash. While he gains allies he never expected, there are also secret forces determined to aid and manipulate him for their own agenda.",
+      "totalSeasons": "8",
+      "id": 2
     }
   ]
 }
